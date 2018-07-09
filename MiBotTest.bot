@@ -1,0 +1,15 @@
+{
+    "name": "MiBotTest",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "ef464380-834d-11e8-b601-a96c7ed2fea0",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "MiBot"
+        }
+    ]
+}
